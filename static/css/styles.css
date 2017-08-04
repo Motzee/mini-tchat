@@ -1,0 +1,31 @@
+* {
+    box-sizing : border-box ;
+}
+
+body {
+    margin : 0 ;
+    color : #4D7358 ;
+    font-family : sans-serif ;
+    min-height : 100vh ;
+    display : flex ;
+    flex-direction : column ;
+    flex-wrap : wrap ;
+    justify-content : center ;
+    align-items :  center ;
+}
+
+#p_index {
+    background : #E8D174 ;
+}
+
+footer {
+    background : rgba(255, 255, 255, 0.4) ;
+    width : 80% ;
+    min-width : 320px ;
+    max-width : 1000px ;
+    text-align : center ;
+    padding : 10px ;
+    border-radius : 15px ;
+    box-shadow : inset 1px 1px 2px white ;
+    margin-top : 20px ;
+}

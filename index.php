@@ -9,9 +9,10 @@
     require_once("c_imports.php") ;
 
 ?>
-<body>
+<body id="p_index">
 <?php
-    //cadre de connexion/création de compte/sélection de salon
+
+//cadre de connexion/création de compte/sélection de salon
     include_once("templates/v_index.php") ;
     
     //infos légales

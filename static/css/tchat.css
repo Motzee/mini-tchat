@@ -1,0 +1,17 @@
+/*Formulaire de connexion sur index.php*/
+#accesTchat {
+    border : 2px solid #4D7358 ;
+    border-radius : 10px ;
+    text-align : center ;
+    padding : 10px ;
+    box-shadow : 2px 2px 2px grey, inset 2px 2px 2px grey ;
+    background : white ;
+}
+
+#infosAcces {
+    width : 60% ;
+    min-width : 320px ;
+    max-width : 800px ;
+    text-align : center ;
+    color : black ;
+}
